@@ -1,0 +1,121 @@
+.section_3 {
+    padding-top: 200px;
+    background: #FFF5F6;
+    height: 1500px;
+    // margin-left: 100px;
+    margin-top: 150px;
+}
+
+.flex {
+    display: flex;
+}
+
+.sec_h h3 {
+    margin-left: 35%;
+    // width: 351px;
+    // height: 34px;
+    font-family: "Titan One", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34.35px;
+    color: #FFA5BA;
+    text-transform: uppercase;
+}
+
+.sec_h h2 {
+    margin-left: 30%;
+    // width: 534px;
+    // height: 66px;
+    font-family: "Titan One", sans-serif;
+    font-size: 58px;
+    font-weight: 400;
+    line-height: 66.41px;
+    color: #D41443;
+    text-transform: uppercase;
+}
+
+.sec_wrap3 {
+    background-image: url(/img/milk.png);
+    // width: 100%;
+    // margin-top: -150px;
+    height: 734px;
+    margin-left: 200px;
+    background-repeat: no-repeat;
+    background-position: 100px;
+    background-position-y: 220px;
+}
+
+.wrap_1_3 {
+    gap: 74px;
+}
+
+.wrap_1_3 img {
+    margin-left: 200px;
+}
+
+.wrap_2_3 {
+    width: 463px;
+    height: 79px;
+    margin-top: 40px;
+}
+
+.sec_1_p {
+    width: 463px;
+    height: 79px;
+    font-size: 16px;
+    line-height: 28.16px;
+    font-weight: 700;
+    color: black;
+}
+
+.sec_2_p {
+    width: 463px;
+    height: 155px;
+    margin-top: 50px;
+    color: #907E82;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 27.16px;
+
+}
+
+.batton {
+    color: #D41443;
+    font-weight: 700;
+}
+
+.btn6 {
+    background-color: white;
+    padding: 20px 50px 20px 50px;
+    border-radius: 50px;
+    width: 210px;
+    margin-top: 30px;
+}
+
+
+.sec_3_card {
+    position: relative;
+    gap: 100px;
+    top: 150px;
+    margin-left: 200px;
+}
+
+.sec_3_cards h2 {
+    font-weight: 400px;
+    font-size: 58px;
+    line-height: 66.41px;
+    color: #D41443;
+}
+
+.sec_3_cards p {
+    width: 330px;
+    height: 52px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28.16px;
+}
+.po{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-weight: 900;
+}

@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
+.header {
+    background: #FFB8CA;
+    // width: 1800px;
+    padding-bottom: 600px;
+    margin-left: 0px;
+
+
+}
+
+.fot1 {
+    position: sticky;
+    margin-top: 2%;
+    width: 199px;
+    height: 50px;
+    margin-left: 10%;
+
+}
+
+.ul1 {
+    position: relative;
+    gap: 50px;
+    padding-right: 350px;
+    margin-top: 2.7%;
+    margin-left: 250px;
+    font-weight: 700;
+    z-index: 3;
+}
+
+ul li a {
+    color: white;
+    z-index: 2;
+}
+
+.home {
+    color: #D41443;
+}
+
+.btn1 {
+    margin-top: 2%;
+}
+
+.cols1 {
+    color: #D41443;
+    font-weight: 700;
+    background-color: white;
+    padding: 15px 45px 15px 45px;
+    border-radius: 50px;
+}
+
+.vec {
+    margin-left: 10px;
+}
+
+.ellipse {
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 43.5%;
+    z-index: 1;
+}
+
+.icecreams {
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 50%;
+    z-index: 2;
+}
+
+.el1 {
+    position: absolute;
+    top: 20%;
+    left: 8%;
+}
+
+.h2h {
+    color: white;
+    font-size: 58px;
+    font-weight: 900;
+}
+
+.h1h {
+    color: #D41443;
+    font-size: 58px;
+    font-weight: 900;
+}
+
+.btn1 {
+    margin-left: -50px;
+}
+
+.btns {
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.btn2 {
+    background: #D41443;
+    padding: 15px 45px 15px 45px;
+    border-radius: 50px;
+}
+
+.btn2 a {
+    color: white;
+}
+
+.btn3 {
+    background: #ffffff;
+    padding: 15px 45px 15px 45px;
+    border-radius: 50px;
+}
+
+.btn3 a {
+    color: #D41443;
+}
+
+.text-first {
+    line-height: 60px;
+}
+
+.p1p {
+    position: absolute;
+    color: white;
+    margin-top: -35%;
+    margin-left: 48%;
+    width: 300px;
+}
+.arrow{
+    margin-top: 10%;
+}
+
+.podel1 {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: -20%;
+}
+
+.podel2 {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: -20%;
+}
+
+.podel1 p {
+    color: white;
+    margin-left: 300px;
+}
+
+.podel2 p {
+    color: white;
+    margin-left: 265px;
+}
+
+.podel1 .ellipse,
+.podel2 .ellipse {
+    position: absolute;
+    margin-top: -5%;
+    margin-left: -10px;
+    z-index: 0;
+}
+
+.woman {
+    position: absolute;
+    margin-top: 24%;
+    margin-left: -24.5%;
+    z-index: 3;
+}
+
+.cyf {
+    z-index: 2;
+    position: relative;
+    margin-left: 300px;
+}
